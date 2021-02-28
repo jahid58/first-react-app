@@ -1,0 +1,10 @@
+.user{
+  width: 75%;
+  display: flex;
+  flex-wrap: wrap;
+  
+  color: rgb(247, 245, 253);
+}
+.container{
+  display: flex;
+}

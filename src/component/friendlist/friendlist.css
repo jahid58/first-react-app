@@ -1,0 +1,16 @@
+.friends{
+    height: max-content;
+    padding: 10px;
+    background-color: rgb(7, 31, 7);
+    border:1px solid gray;
+    text-align: center;
+    color: khaki;
+    border-radius: 5px;
+    box-shadow: 3px 3px 3px gray;
+    margin-right:3vw;
+    margin-top: 100px;
+
+}
+.friends li{
+  list-style-type: lower-roman;
+}
